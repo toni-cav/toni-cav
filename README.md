@@ -67,14 +67,6 @@ Tenho grande interesse em áreas que unem **tecnologia, estatística e tomada de
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true)
-
----
-
 ## 🎯 Objetivo
 
 Construir soluções que transformem dados em informação útil, unindo desenvolvimento de software, estatística e inteligência analítica para resolver problemas reais.
